@@ -11,6 +11,9 @@ TagManager:
   - Key
   - Keyhole
   - Door
+  - Pot
+  - Ingredient
+  - Sword
   layers:
   - Default
   - TransparentFX
