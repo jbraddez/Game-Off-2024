@@ -69,6 +69,9 @@
     <Compile Include="Assets/HammerInteraction.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualTouchZone.cs" />
     <Compile Include="Assets/SimplePickup.cs" />
+    <Compile Include="Assets/FOVController.cs" />
+    <Compile Include="Assets/CanvasController.cs" />
+    <Compile Include="Assets/ChickenRain.cs" />
     <Compile Include="Assets/HealthBar.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualButton.cs" />
     <Compile Include="Assets/StarterAssets/Mobile/Scripts/VirtualInputs/UIVirtualJoystick.cs" />
